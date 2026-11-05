@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="218" viewBox="0 0 620 218" role="img" aria-labelledby="t">
+  <title id="t">Three projects sharing one shape: Cove, LumenDesk and Globex each gather several scattered inputs into a single output.</title>
+  <!-- Cove -->
+  <text x="48" y="47" font-family="'Iowan Old Style', Palatino, Georgia, serif"
+        font-size="17" font-weight="600" fill="#EDE9DF">Cove</text>
+  <text x="48" y="64" font-family="'SF Mono', ui-monospace, Menlo, monospace"
+        font-size="9" letter-spacing="0.6" fill="#A6AEC6" fill-opacity="0.8">Monash-Cove · TypeScript</text>
+  <text x="238" y="23.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#A6AEC6">Ed</text>
+  <path d="M 246 20 L 332 42" stroke="#6B90C2" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <text x="238" y="45.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#A6AEC6">Moodle</text>
+  <path d="M 246 42 L 332 42" stroke="#6B90C2" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <text x="238" y="67.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#A6AEC6">邮箱</text>
+  <path d="M 246 64 L 332 42" stroke="#6B90C2" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <rect x="329" y="39" width="6" height="6" fill="#D2A96B"/>
+  <path d="M 338 42 L 398 42" stroke="#EDE9DF" stroke-opacity="0.55" stroke-width="1.4" fill="none"/>
+  <path d="M 399 38.5 L 406 42 L 399 45.5" stroke="#EDE9DF" stroke-opacity="0.55" stroke-width="1.4" fill="none"/>
+  <text x="418" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#EDE9DF">一份日程</text>
+  <!-- LumenDesk -->
+  <text x="48" y="115" font-family="'Iowan Old Style', Palatino, Georgia, serif"
+        font-size="17" font-weight="600" fill="#EDE9DF">LumenDesk</text>
+  <text x="48" y="132" font-family="'SF Mono', ui-monospace, Menlo, monospace"
+        font-size="9" letter-spacing="0.6" fill="#A6AEC6" fill-opacity="0.8">lumendesk · Python</text>
+  <text x="238" y="91.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#A6AEC6">用户请求</text>
+  <path d="M 246 88 L 332 110" stroke="#6B90C2" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <text x="238" y="113.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#A6AEC6">知识库</text>
+  <path d="M 246 110 L 332 110" stroke="#6B90C2" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <text x="238" y="135.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#A6AEC6">业务工具</text>
+  <path d="M 246 132 L 332 110" stroke="#6B90C2" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <rect x="329" y="107" width="6" height="6" fill="#D2A96B"/>
+  <path d="M 338 110 L 398 110" stroke="#EDE9DF" stroke-opacity="0.55" stroke-width="1.4" fill="none"/>
+  <path d="M 399 106.5 L 406 110 L 399 113.5" stroke="#EDE9DF" stroke-opacity="0.55" stroke-width="1.4" fill="none"/>
+  <text x="418" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#EDE9DF">路由后的回复</text>
+  <!-- Globex -->
+  <text x="48" y="183" font-family="'Iowan Old Style', Palatino, Georgia, serif"
+        font-size="17" font-weight="600" fill="#EDE9DF">Globex</text>
+  <text x="48" y="200" font-family="'SF Mono', ui-monospace, Menlo, monospace"
+        font-size="9" letter-spacing="0.6" fill="#A6AEC6" fill-opacity="0.8">globex-agent · Python</text>
+  <text x="238" y="159.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#A6AEC6">商品目录</text>
+  <path d="M 246 156 L 332 178" stroke="#6B90C2" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <text x="238" y="181.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#A6AEC6">用户需求</text>
+  <path d="M 246 178 L 332 178" stroke="#6B90C2" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <text x="238" y="203.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#A6AEC6">模型网关</text>
+  <path d="M 246 200 L 332 178" stroke="#6B90C2" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <rect x="329" y="175" width="6" height="6" fill="#D2A96B"/>
+  <path d="M 338 178 L 398 178" stroke="#EDE9DF" stroke-opacity="0.55" stroke-width="1.4" fill="none"/>
+  <path d="M 399 174.5 L 406 178 L 399 181.5" stroke="#EDE9DF" stroke-opacity="0.55" stroke-width="1.4" fill="none"/>
+  <text x="418" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#EDE9DF">选购会话</text>
+</svg>
