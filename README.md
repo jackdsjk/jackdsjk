@@ -2,6 +2,8 @@
   jackdsjk — GitHub profile README
   结构参考 MarkChu-git/MarkChu-git，一比一复刻，内容与配色换成自己的。
   - hero.jpg：静态图（README 里的 <img> 不执行脚本，动效只能来自 SVG）
+  - typing.svg：自绘，文字用 SMIL 透明度轮换；第三方 readme-typing-svg 在本机 Chrome 里
+    渲染为空白（textPath + 动画路径），实测不可靠，故自建
   - 3D 贡献图：yoshi389111/github-profile-3d-contrib 在 .github/workflows/profile-3d.yml 里
     每天生成，force-push 到 output 分支，页面只引用 raw 链接，不依赖第三方服务。
 -->
@@ -15,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=2F7D4F&center=true&vCenter=true&width=760&height=42&lines=Currently+building:+Monash+Cove;CS+%40+Monash+University;Local-first+%E2%80%94+data+stays+on+your+machine" alt="Currently building Monash Cove" />
+  <img src="assets/typing.svg" alt="Currently building Monash Cove" />
 </div>
 
 <br/>
