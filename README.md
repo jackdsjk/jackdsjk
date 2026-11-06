@@ -1,6 +1,7 @@
 <!--
   jackdsjk — GitHub profile README
-  结构参考 MarkChu-git/MarkChu-git，一比一复刻，内容与配色换成自己的。
+  结构参考 MarkChu-git/MarkChu-git，内容与配色换成自己的。
+  - 不放技术栈图标墙：学校信息替代它（Monash University）。
   - hero.jpg：静态图（README 里的 <img> 不执行脚本，动效只能来自 SVG）
   - typing.svg：自绘，文字用 SMIL 透明度轮换；第三方 readme-typing-svg 在本机 Chrome 里
     渲染为空白（textPath + 动画路径），实测不可靠，故自建
@@ -23,7 +24,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,react,nodejs,electron,docker,git,github,linux,cloudflare,vite,npm&perline=6&theme=light" alt="Tech stack" />
+
+<h3>Monash University</h3>
+
+<sub>Computer Science · since 2025</sub>
+
+<br/>
+
+<img src="assets/rule.svg" width="132" height="2" alt="" />
+
 </div>
 
 <br/>
