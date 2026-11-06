@@ -1,19 +1,49 @@
-<p align="center">
-  <img src="./assets/rule.svg" width="132" height="2" alt="">
-</p>
+<!--
+  jackdsjk — GitHub profile README
+  结构参考 MarkChu-git/MarkChu-git，一比一复刻，内容与配色换成自己的。
+  - hero.jpg：静态图（README 里的 <img> 不执行脚本，动效只能来自 SVG）
+  - 3D 贡献图：yoshi389111/github-profile-3d-contrib 在 .github/workflows/profile-3d.yml 里
+    每天生成，force-push 到 output 分支，页面只引用 raw 链接，不依赖第三方服务。
+-->
 
-<h3>Monash-Cove</h3>
+<div align="center">
+  <a href="https://github.com/jackdsjk">
+    <img src="assets/hero.jpg" alt="Jack Jiang — Monash CS · local-first tools" width="100%" />
+  </a>
+</div>
 
-<p>本地优先的校园信息分诊。把 Ed、Moodle 和邮箱里散着的通知与截止日期收成一份日程，桌面端装好即用，数据不出本机。代码在 <a href="https://github.com/jackdsjk/Monash-Cove">jackdsjk/Monash-Cove</a>。</p>
+<br/>
 
-<h3>LumenDesk</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=2F7D4F&center=true&vCenter=true&width=760&height=42&lines=Currently+building:+Monash+Cove;CS+%40+Monash+University;Local-first+%E2%80%94+data+stays+on+your+machine" alt="Currently building Monash Cove" />
+</div>
 
-<p>多 Agent 客服后端，意图识别、路由、RAG 和评测串在同一条链路上。仓库私有，<a href="https://jackdsjk.github.io/lumendesk/">演示站</a>公开。</p>
+<br/>
 
-<h3>Globex</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nodejs,electron,docker,git,github,linux,cloudflare,vite,npm&perline=6&theme=light" alt="Tech stack" />
+</div>
 
-<p>跨境电商选购 Agent 的课程实战工程，上游仓库私有。我负责模型供应商适配层：多供应商 Chat 与向量模型适配、跨网关独立凭据、上线前的预检脚本与测试。</p>
+<br/>
 
-<p align="center">
-  <img src="./assets/rule.svg" width="132" height="2" alt="">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jackdsjk/jackdsjk/output/contribution-3d.svg" alt="3D contribution graph — trailing 12 months" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/jackdsjk"><img src="https://img.shields.io/badge/GitHub-jackdsjk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://github.com/jackdsjk/Monash-Cove"><img src="https://img.shields.io/badge/Monash%20Cove-building-2F7D4F?style=for-the-badge&logo=electron&logoColor=white" alt="Monash Cove" /></a>
+  &nbsp;
+  <a href="https://github.com/jackdsjk?tab=repositories"><img src="https://img.shields.io/badge/Repositories-all-B69361?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jackdsjk&style=flat-square&color=2F7D4F&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
